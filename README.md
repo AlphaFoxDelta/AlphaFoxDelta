@@ -50,4 +50,4 @@ Hands-on Python security tools I built to learn the craft from the inside:
 
 
 - [LinkedIn](https://www.linkedin.com/in/art-deller)
-- Art.Deller@spectrum.com
+- Arthur.deller@gmail.com

@@ -8,7 +8,7 @@ Field Services leader turned cybersecurity graduate. I run large technical teams
 
 I'm a Manager, Field Service (FTVI) at Spectrum Enterprise, leading field operations across North Texas. Over 10+ years in telecom I've gone from technician to supervisor to manager:
 
-- Led 145+ enterprise installs (Walmart, HEB) at a 100% success rate
+- Led 400+ complex enterprise installs for Walmart, HEB, JP Morgan Chase, Cracker Barrel, and Jiffy Lube in 8 months, while supporting all other enterprise customers
 - Moved team performance from 30th to top 5 enterprise-wide
 - Built processes adopted across the entire enterprise (RFC 6349 testing standards, "Pass to Close" closeout discipline)
 

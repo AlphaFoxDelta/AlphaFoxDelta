@@ -1,20 +1,20 @@
 # Hi, I'm Art Deller
 
-Field Services leader turned cybersecurity graduate. I run large technical teams — and I'm building the security depth to lead in tech.
+Field Services leader turned cybersecurity graduate. I run large technical teams, and I'm building the security depth to lead in tech.
 
 ## What I do
 
-I'm a **Manager, Field Service (FTVI)** at Spectrum Enterprise, leading field operations across North Texas. Over 10+ years in telecom I've gone from technician to supervisor to manager:
+I'm a Manager, Field Service (FTVI) at Spectrum Enterprise, leading field operations across North Texas. Over 10+ years in telecom I've gone from technician to supervisor to manager:
 
 - Led 145+ enterprise installs (Walmart, HEB) at a 100% success rate
 - Moved team performance from 30th to top 5 enterprise-wide
 - Built processes adopted across the entire enterprise (RFC 6349 testing standards, "Pass to Close" closeout discipline)
 
-Before Spectrum, I served in the **U.S. Air Force** — that's where I learned what leadership actually means.
+Before Spectrum, I served in the U.S. Air Force. That's where I learned what leadership actually means.
 
 ## Where I'm headed
 
-I graduate in **December 2026** with a **B.S. in Cybersecurity** (Southern New Hampshire University, 4.0 GPA, summa cum laude). My goal is **senior leadership in tech** — running teams, not just tools. The degree and the projects below are how I back that up with real technical depth.
+I graduate in December 2026 with a B.S. in Cybersecurity (Southern New Hampshire University, 4.0 GPA, summa cum laude). My goal is senior leadership in tech, running teams, not just tools. The degree and the projects below are how I back that up with real technical depth.
 
 ## Security projects
 

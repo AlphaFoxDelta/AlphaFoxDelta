@@ -27,8 +27,13 @@ Hands-on Python security tools I built to learn the craft from the inside:
 | [tcp-port-scanner](https://github.com/AlphaFoxDelta/tcp-port-scanner) | Threaded TCP port scanner with banner grabbing |
 | [web-security-scanner](https://github.com/AlphaFoxDelta/web-security-scanner) | Security headers, cookie flags, XSS / SQLi / open-redirect probes |
 | [brute-force-detector](https://github.com/AlphaFoxDelta/brute-force-detector) | SSH brute-force detection from auth logs |
-| [password-hash-auditor](https://github.com/AlphaFoxDelta/password-hash-auditor) | Dictionary and mutation auditing of password hashes |
+| [password-hash-auditor](https://github.com/AlphaFoxDelta/password-hash-auditor) | Dictionary and mutation auditing of pass
+word hashes |
 | [subdomain-recon](https://github.com/AlphaFoxDelta/subdomain-recon) | Subdomain enumeration with wildcard DNS detection |
+| [security-dashboard](https://github.com/AlphaFoxDelta/security-dashboard) | Web dashboard for port scans and web security findings |
+| [phishing-analyzer](https://github.com/AlphaFoxDelta/phishing-analyzer) | Phishing email analysis with SPF/DKIM/DMARC and URL checks |
+| [vuln-tracker](https://github.com/AlphaFoxDelta/vuln-tracker) | Track security findings from open to resolved, with manager-ready reports |
+| [network-mapper](https://github.com/AlphaFoxDelta/network-mapper) | Subnet mapping with a visual SVG network topology |
 
 ## Let's connect
 

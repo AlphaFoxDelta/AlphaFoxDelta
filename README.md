@@ -1,3 +1,5 @@
+<img src="headshot.jpg" alt="Art Deller" width="160" align="right">
+
 # Hi, I'm Art Deller
 
 Field Services leader turned cybersecurity graduate. I run large technical teams, and I'm building the security depth to lead in tech.

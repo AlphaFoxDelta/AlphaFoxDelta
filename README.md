@@ -4,7 +4,7 @@
 # Hi, I'm Art Deller
 
 
-Field Services leader turned cybersecurity graduate. I run large technical teams, and I'm building the security depth to lead in tech.
+Field Services leader finishing my B.S. in Cybersecurity. I run large technical teams, and I'm building the security depth to lead in tech.
 
 
 ## What I do
@@ -30,7 +30,7 @@ I graduate in December 2026 with a B.S. in Cybersecurity (Southern New Hampshire
 ## Security projects
 
 
-Hands-on Python security tools I built to learn the craft from the inside:
+Hands-on Python security tools I built to learn how this stuff really works:
 
 
 | Project | What it does |

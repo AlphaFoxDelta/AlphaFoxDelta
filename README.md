@@ -66,6 +66,7 @@ Hands-on Python security tools I built to learn how this stuff really works:
 | [phishing-analyzer](https://github.com/AlphaFoxDelta/phishing-analyzer) | Phishing email analysis with SPF/DKIM/DMARC and URL checks |
 | [vuln-tracker](https://github.com/AlphaFoxDelta/vuln-tracker) | Track security findings from open to resolved, with manager-ready reports |
 | [network-mapper](https://github.com/AlphaFoxDelta/network-mapper) | Subnet mapping with a visual SVG network topology |
+| [vuln-management-program](https://github.com/AlphaFoxDelta/vuln-management-program) | Vulnerability management program kit: charter, severity SLAs, threat analysis, workflow, metrics, plus an SLA tracker and Gantt chart generator. |
 
 
 
